@@ -2,14 +2,14 @@
 
 ![Finance Dashboard](https://raw.githubusercontent.com/ydvneha2005/Finance/main/Finance%20Dashboard.png)
 
-# 📊 Executive Finance Dashboard
+# Executive Finance Dashboard
 
-## 📌 Project Overview
+##  Project Overview
 This Power BI Finance Dashboard provides an executive-level view of business performance by analyzing Sales, Profit, Products, Segments, and Geographic Regions. The dashboard helps stakeholders track key financial metrics and make data-driven decisions.
 
 
 
-## 🎯 Key Features
+##  Key Features
 
 ### 1. Profit Trend Analysis
 - Monthly Profit Tracking
@@ -36,7 +36,7 @@ This Power BI Finance Dashboard provides an executive-level view of business per
 - Month Filter
 - Dynamic Cross-Filtering
 
-## 📈 KPIs Analyzed
+## KPIs Analyzed
 - Total Sales
 - Total Profit
 - Profit by Country
@@ -44,20 +44,20 @@ This Power BI Finance Dashboard provides an executive-level view of business per
 - Sales by Product
 - Monthly Profit Trend
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 - Power BI
 - DAX
 - Power Query
 - Data Modeling
 - Data Visualization
 
-## 📊 Dashboard Insights
+## Dashboard Insights
 - Government Segment generated the highest profit contribution.
 - Paseo and VTT are among the top-performing products.
 - Profit trends fluctuate across months, highlighting seasonal business patterns.
 - North America and Europe contribute significantly to overall profitability.
 
-## 🚀 Skills Demonstrated
+## Skills Demonstrated
 - Data Cleaning
 - Data Modeling
 - DAX Calculations
@@ -66,7 +66,7 @@ This Power BI Finance Dashboard provides an executive-level view of business per
 - Financial Analysis
 - Data Visualization
 
-## 👨‍💻 Author
+## Author
 Neha Yadav
 
 GitHub: https://github.com/ydvneha2005
